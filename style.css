@@ -32,8 +32,8 @@ a {
 .btn-blue {
   background-color: #A084CA;
   color: #ECC5FB;
-  border-radius: 100px;
-  padding: 8px 16px;
+  border-radius: 30px;
+  padding: 3px 10px;
 }
 
 .btn-blue:hover {
@@ -80,6 +80,7 @@ div {
 
 .list-inline li {
   display: inline;
+  margin-left: 4px;
 }
 .container {
   width: 700px;
